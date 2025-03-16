@@ -1,5 +1,5 @@
 # IT-midterm-project
-Using data analysis and regression modeling to identify key trading signals
+Using regression modeling to identify key trading signals
 
 # Financial Signal Analysis & Trading Strategy Research：
 
